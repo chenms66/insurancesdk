@@ -14,9 +14,6 @@
             "email": "1159604116@qq.com"
         }
     ],
-    "require": {
-        "guzzlehttp/guzzle": "^7.9"
-    },
     "require-dev": {
         "phpunit/phpunit": "^8.5"
     },
