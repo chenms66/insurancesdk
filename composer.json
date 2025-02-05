@@ -1,0 +1,24 @@
+{
+    "name": "chenms/insurance",
+    "description": "Public Insurance Interface",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chenms\\Insurance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chenms",
+            "email": "1159604116@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "7.9.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8.5.x-dev"
+    }
+}
