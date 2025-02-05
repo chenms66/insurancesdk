@@ -3,7 +3,7 @@
         'name' => 'chenms/insurance',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '9d1b3c858b453cfecf7a31e22ed803de237131c7',
+        'reference' => '6a4d8979781d4d0e63a3d2391fe65f2edaddc627',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'chenms/insurance' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '9d1b3c858b453cfecf7a31e22ed803de237131c7',
+            'reference' => '6a4d8979781d4d0e63a3d2391fe65f2edaddc627',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
